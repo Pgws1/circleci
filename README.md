@@ -1,0 +1,2 @@
+# circleci
+mining circle
